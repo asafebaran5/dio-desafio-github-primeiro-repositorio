@@ -1,0 +1,9 @@
+Markdown é uma linguagem de marcação usada no README que utilizamos no Github
+
+Alguns links úteis para o estudo dessa tecnologia:
+
+Sintaxe
+https://www.markdownguide.org/basic-syntax/
+
+Melhores Editores Markdown
+https://markdown.net.br/ferramentas/
