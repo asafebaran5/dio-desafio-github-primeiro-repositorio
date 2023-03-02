@@ -1,0 +1,8 @@
+dicas
+
+todos os atalhos do intellij
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+principais atalhos intellij
+http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+

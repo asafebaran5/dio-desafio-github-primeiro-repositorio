@@ -1,0 +1,4 @@
+dicas
+
+alguns atalhos na IDE eclipse
+https://medium.com/@francisco.kindermann/alguns-atalhos-do-eclipse-65ad47eec6ae#:~:text=Ctrl%20%2B%20Alt%20%2B%20down%2Fup,para%20baixo%20sem%20precisar%20selecionar.
