@@ -1,1 +1,6 @@
 primeiros comandos java
+https://glysns.gitbook.io/java-basico/
+documentacao oracle
+https://docs.oracle.com/javase/tutorial/
+arrays e repeticoes
+https://github.com/cami-la/loops-e-arrays
